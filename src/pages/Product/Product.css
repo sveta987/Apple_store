@@ -1,0 +1,83 @@
+.search-filter-bar form .search-filter-bar-features{
+    display: flex;
+    justify-content:center;
+}
+
+.search-filter-bar form .search-filter-bar-features .box{
+    padding-bottom: 10px;
+    margin-left: 20px;
+}
+.search-filter-bar form .search-filter-bar-features{
+    display: flex;
+    justify-content:center;
+}
+
+.search-filter-bar form .search-filter-bar-features .box{
+    padding-bottom: 10px;
+    margin-left: 20px;
+}
+
+.offcanvas-body li{
+    padding:12px;
+    border-bottom: 1px solid rgb(231, 218, 218);
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.offcanvas-box{
+    padding-left: 15px;
+}
+
+.offcanvas-title{
+    font-size: 24px;
+    color: #444444;
+    background: #FFFFFF;
+    text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC;
+}
+
+.offcanvas-box input{
+    padding:8px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 45%;
+    border:1px solid #999;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+
+
+.offcanvas-box input:first-child{
+    margin-right:5px;
+}
+
+
+.offcanvas-box input:last-child{
+    margin-left:5px;
+}
+
+.btn-filter{
+    padding:8px 30px;
+    background-color: #000;
+    color:#fff;
+    font-size: 16px;    
+    border-radius: 25px;
+}
+
+.btn-filter:hover{
+    opacity: .5;
+}
+
+@media(max-width:510px){
+    .search-filter-bar form .search-filter-bar-features{
+        flex-direction: column;
+        text-align: center;
+    }
+    
+}
+@media(max-width:510px){
+    .search-filter-bar form .search-filter-bar-features{
+        flex-direction: column;
+        text-align: center;
+    }
+    
+}

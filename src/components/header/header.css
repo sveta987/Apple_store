@@ -1,0 +1,108 @@
+.navbar{
+    background-color:rgb(236, 230, 230) ;
+}
+
+.nav-link{
+    font-size: 22px;
+    color: black;
+    cursor: pointer;
+    
+} 
+
+.nav-link:hover{
+    color:#fff!important;
+    background: #1a1a1a;
+    text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5);
+    
+}
+
+.buttons{
+    position: absolute;
+    right: 30px;
+}
+
+.navbar .contact-link{
+    margin-bottom: 0!important;
+}
+
+.buttons button, .buttons a{
+    margin-left: 8px;
+    background-color: #131313;
+    border:none;
+    color:#fff;
+}
+
+.buttons button:hover, .buttons a:hover{
+    color: #fff!important;
+    background: #333!important;
+    text-shadow: 0 15px 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5);
+}
+ 
+.navbar-brand{
+    font-size: 32px;
+    color: #131313;
+    letter-spacing: 4px;
+    text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 4px 3px 1px #CCCCCC, 3px 4px 1px #EEEEEE, 5px 4px 1px #CCCCCC, 4px 5px 1px #EEEEEE, 6px 5px 1px #CCCCCC, 5px 6px 1px #EEEEEE, 7px 6px 1px #CCCCCC, 2px 2px 2px rgba(206,89,55,0);  
+}
+  
+
+.btn-primary{
+    background-color: #000!important;
+    border-color: #000!important;
+}
+
+.buttons a{
+    font-size: 12px!important;
+    padding:9px;
+}
+
+  
+@media(max-width:990px){
+    .buttons{
+    position: inherit;
+}
+
+.buttons .btn, .buttons a{
+    display: block;
+    width: 80%;
+    padding: 10px;
+    font-size: 21px;
+    margin:22px auto;
+}
+
+.buttons a{
+    font-size: 16px!important;
+}
+    
+
+.navbar-light .navbar-nav .nav-link{
+    background-color: #333;
+    color:white;
+    text-align: center;
+    border-radius: 5px;
+} 
+
+
+.navbar-light .navbar-nav .nav-link.active{
+    color:#fff;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    width: 80%;
+    margin:10px auto;
+}
+
+.navbar-brand{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-primary{
+    background-color: #333!important;
+}
+
+.buttons a{
+    background-color: #333!important;
+}
+
+}
