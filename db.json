@@ -1,0 +1,37 @@
+{
+    "CarouselItems": [
+      { "id": 1, "image": "https://www.m1.com.sg/-/media/Images/Personal/Promotions/iPhone-12/1440x671_iPhone12-Pro-Max.png" },
+      { "id": 2, "image": "https://www.m1.com.sg/-/media/Images/Personal/Promotions/ipadair/1440x671_ipadair03.jpg" },
+      { "id": 3,  "image": "https://www.m1.com.sg/-/media/Images/Personal/Promotions/iPad-Pro/1440x671_ipad-pro.jpg" }
+      
+
+    ],
+    "Categories": [
+      { "id": 1, "CategoryName": "Mac", "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-select-202206?wid=452&hei=420&fmt=jpeg&qlt=95&.v=1653493200207" },
+      { "id": 2, "CategoryName": "iPad", "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-spacegray-202104_FMT_WHH?wid=1945&hei=2000&fmt=jpeg&qlt=95&.v=1617126635000"},
+      { "id": 3, "CategoryName": "iPhone", "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-graphite-2020?wid=2000&hei=1897&fmt=jpeg&qlt=95&.v=1635202842000" },
+      { "id": 4, "CategoryName": "iWatch", "image": "https://www.apple.com/v/watch/ax/images/meta/gps-lte/og__n5qzveqr596m.png" },
+      { "id": 5, "CategoryName": "AirPods", "image": "https://www.mytrendyphone.eu/images/Apple-Airpods-2-with-Charging-Case-MV7N2ZM-A-0190199098572-05012022-p.jpg" }
+    ],
+
+    "Products": [
+      { "id": 1, "category": "Mac", "model":"MacBook  Air MGN93",  "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-mbp16-silver-m1-2021_GEO_GB?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1643239803000", "price" : "1000" },
+      { "id": 2, "category":  "Mac", "model":"MacBook Pro MYD82",  "image": "https://directmobileaccessories.com/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_macbook_pro_13_m1_2020_a2338.jpg", "price" : "1200" },
+      { "id": 3, "category": "Mac","model":"MacBook Pro MNEH3 ", "image": "https://hotline.ua/img/tx/191/1912976155.jpg", "price" : "1500" },
+      { "id": 4, "category": "iPhone", "model":"iPhone 11 64GB ", "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone11-black-select-2019?wid=470&hei=556&fmt=png-alpha&.v=1566956144418", "price" : "500" },
+      { "id": 5, "category": "iPad","model":"iPad mini 6 64GB Wi-Fi", "image": "https://redstore.am/uploads/shop/products/main/ea80d367cb64616f37b77d3502c8b676.jpg", "price" : "400" },
+      { "id": 6, "category": "iPhone","model":"iPhone SE 64GB ", "image": "https://redstore.am/uploads/shop/products/large/d7032f2b1fec705b3641334787dfa436.jpg", "price" : "280" },
+      { "id": 7, "category": "iPhone","model":"iPhone 13 mini 128GB ", "image": "https://redstore.am/uploads/shop/products/main/5cd2c01df09580644ca04c9eee877e2b.jpg", "price" : "900" },
+      { "id": 9, "category": "iPad", "model":"iPad Air 4 (2020) 64GB", "image": "https://redstore.am/uploads/shop/products/large/25b7d980db92337afbd1ff1f69fb692c.jpg", "price" : "700" },
+      { "id": 10, "category": "iPad", "model":"iPad Pro 12.9 512GB", "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-cell-spacegray-202104_FMT_WHH?wid=1945&hei=2000&fmt=jpeg&qlt=95&.v=1617126635000", "price" : "1700" },
+      { "id": 15, "category": "iWatch", "model":"Apple Watch SE 40mm ", "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MKU83_VW_34FR+watch-40-alum-spacegray-nc-se_VW_34FR_WF_CO?wid=1400&hei=1400&trim=1,0&fmt=p-jpg&qlt=95&.v=1632171038000,1630713141000", "price" : "280" },
+      { "id": 17, "category": "iWatch", "model":"Apple Watch 7 series", "image": "https://redstore.am/uploads/shop/products/large/6cc2e57b3215170f952a0f6a5d7db240.jpg", "price" : "380" },
+      { "id": 18, "category": "iWatch", "model":"Apple Watch Nike Series 7","image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ML883_VW_34FR+watch-45-alum-midnight-nc-nike7s_VW_34FR_WF_CO?wid=1400&hei=1400&trim=1,0&fmt=p-jpg&qlt=95&.v=1632171381000,1631662235000", "price" : "340" },
+      { "id": 21, "category": "AirPods", "model":"AirPods pro ", "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MME73?wid=2000&hei=2000&fmt=jpeg&qlt=95&.v=1632861342000", "price" : "209" },
+      { "id": 22, "category": "AirPods", "model":"AirPods Max ", "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-max-hero-select-202011?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1604709293000", "price" : "179" },
+      { "id": 23, "category": "AirPods", "model":"AirPods pro ", "image": "https://apple-store.net.ru/image/cache/catalog/tovary/nauwniki/apple-airpods-pro-pravyi-belyi-800x800.jpg", "price" : "57" }
+    
+    ]
+
+    
+}
